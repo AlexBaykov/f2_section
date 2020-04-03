@@ -8,3 +8,6 @@ The calculation involves procedures from GSL library, which are implemented in g
 The first calculates the impact of energy distribution in the electron beam on the cross-section, while the latter calculates
 radiative corrections to the cross-section. Radiative corrections can be calculated using Fadin-Kuraev-Lipatov radiaton function.
 This function is in the radiator.cpp file.
+
+This program uses ROOT CERN to store the output graphs, thus ROOT CERN is required for it compile. I have put the graphs in
+pdf for convinience.
