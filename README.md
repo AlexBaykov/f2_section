@@ -1,4 +1,4 @@
-# eltex-app
+# f2_section
 This is my humble collection of scripts I wrote during my work and study in BINP
 
 This program calculates the cross-section of the process of electron-positron annihilation into f_2 meson.
